@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/03083510.gif</file>
+        <file>icon/03083511.gif</file>
+        <file>icon/03083512.gif</file>
+        <file>icon/03083513.gif</file>
+        <file>icon/03083514.gif</file>
+        <file>icon/03083516.gif</file>
+        <file>icon/03083520.gif</file>
+        <file>icon/03083530.gif</file>
+        <file>icon/03083560.gif</file>
+        <file>icon/03083570.gif</file>
+        <file>icon/03083580.gif</file>
+        <file>icon/close.gif</file>
+    </qresource>
+</RCC>
